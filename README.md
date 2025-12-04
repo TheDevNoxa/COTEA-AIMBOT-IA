@@ -1,7 +1,6 @@
-# COTEA-AIMBOT-IA
-# COTEA — Clicker & Tracking Bot
+# COTTER — Clicker & Tracking Bot
 
-COTEA est un petit bot de détection d'image et de clic automatique (Windows) conçu pour être rapide et configurable. Il détecte une image modèle à l'écran, choisit la cible la plus proche (tracking) et clique automatiquement.
+COTTER est un petit bot de détection d'image et de clic automatique (Windows) conçu pour être rapide et configurable. Il détecte une image modèle à l'écran, choisit la cible la plus proche (tracking) et clique automatiquement.
 
 **Fonctionnalités principales**
 - Détection d'image avec OpenCV
